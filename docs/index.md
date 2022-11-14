@@ -15,12 +15,15 @@ hero:
 
 features:
   - icon: ⚡️
-    title: Vite, The DX that can't be beat
-    details: Lorem ipsum...
-  - icon: 🖖
-    title: Power of Vue meets Markdown
-    details: Lorem ipsum...
+    title: Frontend
+    details: JavaScript, TypeScript, Vue, React, etc.
+    link: ''
   - icon: 🛠️
-    title: Simple and minimal, always
-    details: Lorem ipsum...
+    title: Tools
+    details: Webpack, Vite, etc.
+  - icon: 📱
+    title: Cross Platform Apps
+    details: PWA
 ---
+
+<style></style>

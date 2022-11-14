@@ -1,8 +1,6 @@
-# Getting Started
+# Guide
 
-```JS{6}
-//JavaScript
-
+```JS
 function name(params) {
   console.log(params);
 
