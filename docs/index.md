@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/getting-started
+      link: /Frontend/
     - theme: alt
       text: View on GitHub
       link: https://github.com/wuzhe0912/blog-vitepress
