@@ -5,7 +5,7 @@
   "author": "Pitt Wu",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.28",
+    "vitepress": "^1.0.0-alpha.29",
     "vue": "^3.2.45"
   },
   "scripts": {

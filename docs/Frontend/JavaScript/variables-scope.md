@@ -12,7 +12,6 @@
 
 ```js
 // function scope
-
 function checkScope() {
   var a = 10;
 }
@@ -26,7 +25,6 @@ console.log(b); // print 20
 
 ```js
 // block scope
-
 function checkScope() {
   const a = 10;
 }
