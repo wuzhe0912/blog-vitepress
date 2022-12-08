@@ -99,7 +99,7 @@ function sidebarFrontend() {
 function sidebarLeetCode() {
   return [
     {
-      text: '🖊️ Low',
+      text: '⚡️ Low',
       collapsible: true,
       collapsed: true,
       items: [{ text: '01-10', link: '/LeetCode/Low/01-10' }],
